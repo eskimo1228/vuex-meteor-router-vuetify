@@ -1,4 +1,4 @@
-# vuex-meteor-router-vuetify-example
+# vuex-meteor-router-vuetify
 Basic Meteor project example with Vue integration, vue-router, vuex, and vuetify
 
 ### About this Repo
@@ -12,8 +12,7 @@ Also uses [Vuetify](https://github.com/vuetifyjs/vuetify) and [akryum:vue-compon
 ### Using this repo
 
 ```
-git clone https://github.com/lnufnu/vuex-meteor-router-vuetify-example.git
-cd vuex-meteor-router-vuetify-example
+git clone https://github.com/eskimo1228/vuex-meteor-router-vuetify.git
+cd vuex-meteor-router-vuetify
 meteor npm install
 ```
-"# vuex-meteor-router-vuetify" 
